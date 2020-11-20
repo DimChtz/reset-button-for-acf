@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Reset Button for ACF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-19 22:13+0200\n"
+"PO-Revision-Date: 2020-11-19 22:14+0200\n"
+"Language-Team: dimchtz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: reset-button-for-acf.php:116
+msgid ""
+"Click \"Reset Custom Fields\" if you want to reset all ACF custom fields on "
+"this page to their default values."
+msgstr ""
+
+#: reset-button-for-acf.php:117
+msgid "Remember!"
+msgstr ""
+
+#: reset-button-for-acf.php:117
+msgid "You can't reset the reset :)"
+msgstr ""
+
+#: reset-button-for-acf.php:119
+msgid "Reset Custom Fields"
+msgstr ""
